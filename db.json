@@ -1,0 +1,45 @@
+{
+  "qualification": [
+    {
+      "qualificationName": "boundingbox/beginner",
+      "qualificationDescription": "beginner level",
+      "id": 2
+    },
+    {
+      "qualificationName": "boundingbox/proficient",
+      "qualificationDescription": "proficient level",
+      "id": 3
+    },
+    {
+      "qualificationName": "image tagging",
+      "qualificationDescription": "image tagging",
+      "id": 4
+    },
+    {
+      "qualificationName": "box wrapping",
+      "qualificationDescription": "box wrapping",
+      "id": 5
+    }
+  ],
+  "assignments": [
+    {
+      "qualificationName": "image tagging",
+      "workerId": "1"
+    },
+    {
+      "qualificationName": "boundingbox/beginner",
+      "workerId": "2"
+    },
+    {
+      "qualificationName": "boundingbox/beginner",
+      "workerId": "3"
+    },
+    {
+      "qualificationName": "boundingbox/proficient",
+      "workerId": "4"
+    }
+  ],
+  "profile": {
+    "name": "wfm"
+  }
+}
